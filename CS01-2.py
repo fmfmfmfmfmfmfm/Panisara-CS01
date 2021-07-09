@@ -1,2 +1,2 @@
- A=input()
- print(A)
+A=input("Panisara")
+print(A)
